@@ -22,10 +22,10 @@ What i had changed was the Edit button option in my home screen for the app beca
 ---
 # Technologies Used
 
--Android Studio
--Samsung A16 (To test app)
--Expo
--ReactNative
+- Android Studio
+- Samsung A16 (To test app)
+- Expo
+- ReactNative
 
 ---
 # App Features 
