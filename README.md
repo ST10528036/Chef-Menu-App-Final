@@ -23,14 +23,14 @@ What i had changed was the Edit button option in my home screen for the app beca
 
 The Cheff Menu application uses a simple, modern and user-friendly design. The interface is designed to make restaurant menu management easy, organised and convenient for restaurant owners and staff.
 
-# 1. Colour Scheme
+## 1. Colour Scheme
 The application uses a warm and welcoming colour palette to create a restaurant-inspired appearance.
 - Dark brown (#7E310C): Used for headings and buttons to create a strong visual identity.
 - Cream (#FFFDF6): Used as the main background colour to give the interface a clean and comfortable appearance.
 - White (#FFFFFF): Used for input fields and text to improve readability.
 - Light grey (#CFCFD2): Used for borders around input fields to provide visual separation.
 
-# 2. Layout Design
+## 2. Layout Design
 The main screen follows a vertical layout, allowing users to interact with the application from top to bottom.
 
 The layout includes:
@@ -40,19 +40,19 @@ The layout includes:
 - A scrollable area displaying menu items.
 - An Add Menu Item button at the bottom.
 
-# 3. Search Bar Design
+## 3. Search Bar Design
 The search bar has rounded corners and a search icon to make it easy for users to identify its purpose. The placeholder text guides users to enter the name of the food item they want to find.
 
-# 4. Buttons and Navigation
+## 4. Buttons and Navigation
 The application uses clearly labelled buttons to help users access different functions. The brown Add Menu Item button stands out against the cream background. A Statistics navigation option provides access to the statistics screen.
 
-# 5. Input Form Design
+## 5. Input Form Design
 The input fields use rounded corners, white backgrounds and light grey borders. This creates a consistent appearance and makes entering menu information more comfortable.
 
-#6. Statistics Screen Design
+## 6. Statistics Screen Design
 The statistics screen provides a separate interface for displaying information about the restaurant menu. It allows users to view menu-related statistics without overcrowding the main menu screen.
 
-# 7. Overall Design Approach
+## 7. Overall Design Approach
 The application follows these design principles:
 - Simplicity: Avoids unnecessary visual elements.
 - Consistency: Uses the same colours, fonts and styling throughout.
