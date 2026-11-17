@@ -1,5 +1,12 @@
 # Chef Menu App - Final Updated Changes
 ---
+# Javarne Moses
+
+# ST10528036 
+
+# MAST2026 
+
+---
 # Overview
 
 The Chef Menu App is an Android restaurant menu management application designed to make it easier for restaurant owners and staff to manage menu items. The app allows users to add, search, organise and manage food items by course, as well as view statistics about their menu. Its purpose is to simplify menu management, improve organisation and provide a convenient way to keep restaurant menu information updated.
