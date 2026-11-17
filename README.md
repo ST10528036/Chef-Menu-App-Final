@@ -20,8 +20,7 @@ I aswell had drawn my User Interface design creating 5 separate screens, each in
 What i had changed was the Edit button option in my home screen for the app because i had no Edit option within the menu items in the home screen, overall creating a more functional app for users with all necessary changes that can be done.
 
 ---
-
-#Technologies Used
+# Technologies Used
 
 -Android Studio
 -Samsung A16 (To test app)
@@ -29,8 +28,7 @@ What i had changed was the Edit button option in my home screen for the app beca
 -ReactNative
 
 ---
-
-#App Features 
+# App Features 
 
 ## 1. Menu Management
 Allows users to manage restaurant menu items in one place. Users can add new food items, edit existing items and delete items that are no longer available.
@@ -54,8 +52,7 @@ The app provides a separate statistics screen where users can view information a
 The app uses a simple and organised interface with clear buttons, search fields, input forms and navigation options to make menu management easier.
 
 ---
-
-#Updated Flow Structure
+# Updated Flow Structure
 
 CheffMenu/
 │
@@ -100,8 +97,7 @@ CheffMenu/
 └── build.gradle.kts
 
 ---
-
-#Screenshots of working app
+# Screenshots of working app
 
 <img width="425" height="922" alt="mail google" src="https://github.com/user-attachments/assets/dc998ff9-f125-433c-b292-bfd41506cf9d" />
 <img width="425" height="922" alt="mail google" src="https://github.com/user-attachments/assets/21ad320f-f89d-425c-a5c3-73355ebe1d5b" />
@@ -111,6 +107,5 @@ CheffMenu/
 <img width="425" height="922" alt="mail google" src="https://github.com/user-attachments/assets/fb2e33da-dad1-45c2-b77c-9c908d3c90f6" />
 
 ---
-
 # YouTube Video Link for Functioning App Recording:
 https://youtu.be/6cPJOBHRT-w?si=Wq7C1shbLl8SvX43
